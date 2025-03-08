@@ -1,5 +1,13 @@
 # Comparing Pixel and Perceptual Loss for a Novel Video Super-Resolution Method
 
+With the ongoing need for high-fidelity videos in different areas of entertainment, Video
+Super-Resolution (VSR) has become a pivotal area of research, transcending its roots in
+gaming to broader applications such as medical imaging and surveillance.
+
+Despite the simplicity of the model and inherent limitations of the VSR task, our findings illustrate that the perceptual losstrained model produces more visually coherent images than its MSE counterpart, even
+though traditional metrics like Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity
+Index Measure (SSIM) showed similar or slightly better values for the MSE model. 
+
 ## Setting Up the Environment
 
 1. Clone the git repository to your machine (makes a copy).
